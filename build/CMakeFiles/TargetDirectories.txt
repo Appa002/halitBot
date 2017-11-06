@@ -1,0 +1,3 @@
+C:/Users/a_mod/Projekte/halite/Ava/build/CMakeFiles/MyBot.dir
+C:/Users/a_mod/Projekte/halite/Ava/build/CMakeFiles/edit_cache.dir
+C:/Users/a_mod/Projekte/halite/Ava/build/CMakeFiles/rebuild_cache.dir
