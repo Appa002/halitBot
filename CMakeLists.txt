@@ -13,4 +13,4 @@ include_directories(${CMAKE_SOURCE_DIR}/hlt)
 
 file(GLOB HLT_SOURCES "${CMAKE_SOURCE_DIR}/hlt/*.cpp")
 
-add_executable(MyBot "MyBot.cpp" ${HLT_SOURCES})
+add_executable(MyBot "MyBot.cpp" ${HLT_SOURCES} src/SmartShip.cpp header/SmartShip.hpp src/ShipManager.cpp header/ShipManager.hpp src/Task.cpp header/Task.hpp src/ConquerTask.cpp header/ConquerTask.hpp src/SupportTask.cpp header/SupportTask.hpp src/AttackTask.cpp header/AttackTask.hpp header/Utility.hpp header/Validation.hpp header/ShipIssue.hpp header/Singleton.hpp header/DataCore.hpp)
